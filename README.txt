@@ -61,7 +61,7 @@ ________________________________________________________________________________
 [Sezione 2]
 
 Il mio sito con tutti i link e i file (Se non li vedete tutti è perché è in costruzione):
-([https://facxa-digit.github.io/AMD-BC-250-Utilities-and-File](https://facxa-digit.github.io/AMD-BC-250-Utilities-and-File))
+(https://facxa-digit.github.io/AMD-BC-250-Utilities-and-File)
 
 Descrizione:
 - File BIOS:
@@ -70,40 +70,40 @@ Descrizione:
 
 Guida:
 - Installazione BIOS/Mod
-  ([https://www.youtube.com/watch?v=dieD-CuBQr0](https://www.youtube.com/watch?v=dieD-CuBQr0))
+  (https://www.youtube.com/watch?v=dieD-CuBQr0)
 
 - Installazione BazziteOS + Guida all'Overclock:
-  ([https://www.youtube.com/watch?v=YuBmGF536II&t=3s](https://www.youtube.com/watch?v=YuBmGF536II&t=3s))
+  (https://www.youtube.com/watch?v=YuBmGF536II&t=3s](https://www.youtube.com/watch?v=YuBmGF536II&t=3s)
 
 - Guida all'Overclock della CPU:
-  ([https://www.youtube.com/watch?v=ciDpPhoioKM](https://www.youtube.com/watch?v=ciDpPhoioKM))
+  (https://www.youtube.com/watch?v=ciDpPhoioKM)
 
 Componenti Hardware:
 - AMD BC 250:
-  ([https://it.aliexpress.com/item/1005008976362329.html](https://it.aliexpress.com/item/1005008976362329.html))
+  (https://it.aliexpress.com/item/1005008976362329.html)
 
 - SSD NVMe — qualunque tu riesca a trovare; 500GB, 1TB o 2TB andranno benissimo.
 
 - APU Flex 300W ITX :
-  ([https://it.aliexpress.com/item/1005010151665903.html](https://it.aliexpress.com/item/1005010151665903.html))
+  (https://it.aliexpress.com/item/1005010151665903.html)
   - Pulsante di accensione ON/OFF:
-    ([https://it.aliexpress.com/item/1005005894844251.html](https://it.aliexpress.com/item/1005005894844251.html))
+    (https://it.aliexpress.com/item/1005005894844251.html)
 
 - Case ITX:
-  ([https://it.aliexpress.com/item/1005009327927680.html](https://it.aliexpress.com/item/1005009327927680.html))
+  (https://it.aliexpress.com/item/1005009327927680.html)
 
 - Gadget:
-  ([https://it.aliexpress.com/item/1005007060764225.html](https://it.aliexpress.com/item/1005007060764225.html))
-  ([https://it.aliexpress.com/item/1005007222088162.html](https://it.aliexpress.com/item/1005007222088162.html))
+  (https://it.aliexpress.com/item/1005007060764225.html)
+  (https://it.aliexpress.com/item/1005007222088162.html)
   
 
 - Ventola:
-  ([https://amzn.eu/d/0fLWMEeu](https://amzn.eu/d/0fLWMEeu))
+  (https://amzn.eu/d/0fLWMEeu)
   - Controller HUB per ventole ARGB asincrone:
-    ([https://it.aliexpress.com/item/1005008365111427.html](https://it.aliexpress.com/item/1005008365111427.html))
+    (https://it.aliexpress.com/item/1005008365111427.html)
   
 - Adattatore (2-in-1) Wi-Fi Bluetooth:
-  [https://amzn.eu/d/0d2R1Glw](https://amzn.eu/d/0d2R1Glw)
+  (https://amzn.eu/d/0d2R1Glw)
   Avresti bisogno di un ricevitore Bluetooth da collegare al tuo monitor/TV,
   o di uno specifico cavo Ugreen da DisplayPort a HDMI,
   poiché alcune persone riscontrano problemi con l'audio integrato.
